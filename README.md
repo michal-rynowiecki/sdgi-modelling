@@ -13,9 +13,6 @@ sdgi-modelling/
 ├── scripts/                 # Execution scripts
 │   ├── 01_download_data.py
 │   ├── 02_preprocess.py
-│   ├── 03_finetune.py
-│   ├── 04_evaluate.py
-│   └── 05_inference.py
 ├── .gitignore
 ├── requirements.txt
 └── README.md
