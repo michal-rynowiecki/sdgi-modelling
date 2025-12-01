@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data and models
+data/
+output/
+*.pt
+*.bin
+*.safetensors
+
+# IDEs
+
+.vscode/
+.idea/
