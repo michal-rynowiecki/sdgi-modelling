@@ -1,6 +1,6 @@
 # sdgi-modelling
 
-This repository contains the pipeline for downloading the UNDP SDGI Corpus, performing Exploratory Data Analysis (EDA), and fine-tuning the **SmolLM** family of models for text generation and classification tasks.
+This repository contains the pipeline for downloading the UNDP SDGI Corpus, performing Exploratory Data Analysis (EDA), _and fine-tuning the **SmolLM** family of models for text generation and classification tasks._ (the cursive part is to be done)
 
 ## Repository Structure
 
