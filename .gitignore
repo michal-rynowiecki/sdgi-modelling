@@ -12,7 +12,7 @@ output/
 *.safetensors
 
 # IDEs
-
+.env
 .vscode/
 .idea/
 slurmJobs/
