@@ -15,3 +15,5 @@ output/
 
 .vscode/
 .idea/
+slurmJobs/
+slurmFiles/
